@@ -272,3 +272,65 @@ Stack trace:
 [15-Aug-2022 19:53:01 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\header.php on line 27
 [15-Aug-2022 19:53:14 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\header.php on line 27
 [15-Aug-2022 19:55:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\header.php on line 27
+[16-Aug-2022 16:54:19 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 21
+[16-Aug-2022 16:54:21 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 21
+[16-Aug-2022 16:54:21 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 21
+[16-Aug-2022 16:54:23 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 21
+[16-Aug-2022 16:54:23 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 21
+[16-Aug-2022 16:54:30 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 21
+[16-Aug-2022 16:54:30 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 21
+[16-Aug-2022 16:55:08 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 21
+[16-Aug-2022 16:55:09 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 21
+[16-Aug-2022 16:55:22 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 21
+[16-Aug-2022 16:55:22 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 21
+[16-Aug-2022 16:56:01 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 23
+[16-Aug-2022 16:56:01 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 23
+[16-Aug-2022 17:10:37 UTC] PHP Warning:  strip_tags() expects parameter 1 to be string, array given in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\admin-header.php on line 36
+[16-Aug-2022 17:10:37 UTC] PHP Stack trace:
+[16-Aug-2022 17:10:37 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\edit.php:0
+[16-Aug-2022 17:10:37 UTC] PHP   2. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\edit.php:397
+[16-Aug-2022 17:10:37 UTC] PHP   3. strip_tags() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\admin-header.php:36
+[16-Aug-2022 17:10:37 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\formatting.php on line 233
+[16-Aug-2022 17:10:37 UTC] PHP Stack trace:
+[16-Aug-2022 17:10:37 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\edit.php:0
+[16-Aug-2022 17:10:37 UTC] PHP   2. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\edit.php:397
+[16-Aug-2022 17:10:37 UTC] PHP   3. require() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\admin-header.php:258
+[16-Aug-2022 17:10:37 UTC] PHP   4. _wp_menu_output() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\menu-header.php:296
+[16-Aug-2022 17:10:37 UTC] PHP   5. wptexturize() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\menu-header.php:253
+[16-Aug-2022 17:10:37 UTC] PHP   6. preg_match_all() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\formatting.php:233
+[16-Aug-2022 17:10:37 UTC] PHP Warning:  array_intersect(): Expected parameter 2 to be an array, null given in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\formatting.php on line 234
+[16-Aug-2022 17:10:37 UTC] PHP Stack trace:
+[16-Aug-2022 17:10:37 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\edit.php:0
+[16-Aug-2022 17:10:37 UTC] PHP   2. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\edit.php:397
+[16-Aug-2022 17:10:37 UTC] PHP   3. require() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\admin-header.php:258
+[16-Aug-2022 17:10:37 UTC] PHP   4. _wp_menu_output() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\menu-header.php:296
+[16-Aug-2022 17:10:37 UTC] PHP   5. wptexturize() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\menu-header.php:253
+[16-Aug-2022 17:10:37 UTC] PHP   6. array_intersect() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\formatting.php:234
+[16-Aug-2022 17:10:37 UTC] PHP Warning:  preg_split() expects parameter 2 to be string, array given in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\formatting.php on line 239
+[16-Aug-2022 17:10:37 UTC] PHP Stack trace:
+[16-Aug-2022 17:10:37 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\edit.php:0
+[16-Aug-2022 17:10:37 UTC] PHP   2. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\edit.php:397
+[16-Aug-2022 17:10:37 UTC] PHP   3. require() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\admin-header.php:258
+[16-Aug-2022 17:10:37 UTC] PHP   4. _wp_menu_output() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\menu-header.php:296
+[16-Aug-2022 17:10:37 UTC] PHP   5. wptexturize() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\menu-header.php:253
+[16-Aug-2022 17:10:37 UTC] PHP   6. preg_split() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\formatting.php:239
+[16-Aug-2022 17:10:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\formatting.php on line 241
+[16-Aug-2022 17:10:37 UTC] PHP Stack trace:
+[16-Aug-2022 17:10:37 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\edit.php:0
+[16-Aug-2022 17:10:37 UTC] PHP   2. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\edit.php:397
+[16-Aug-2022 17:10:37 UTC] PHP   3. require() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\admin-header.php:258
+[16-Aug-2022 17:10:37 UTC] PHP   4. _wp_menu_output() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\menu-header.php:296
+[16-Aug-2022 17:10:37 UTC] PHP   5. wptexturize() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\menu-header.php:253
+[16-Aug-2022 17:10:37 UTC] PHP Warning:  implode(): Invalid arguments passed in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\formatting.php on line 301
+[16-Aug-2022 17:10:37 UTC] PHP Stack trace:
+[16-Aug-2022 17:10:37 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\edit.php:0
+[16-Aug-2022 17:10:37 UTC] PHP   2. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\edit.php:397
+[16-Aug-2022 17:10:37 UTC] PHP   3. require() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\admin-header.php:258
+[16-Aug-2022 17:10:37 UTC] PHP   4. _wp_menu_output() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\menu-header.php:296
+[16-Aug-2022 17:10:37 UTC] PHP   5. wptexturize() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\menu-header.php:253
+[16-Aug-2022 17:10:37 UTC] PHP   6. implode() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\formatting.php:301
+[16-Aug-2022 17:10:52 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 25
+[16-Aug-2022 17:10:54 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 25
+[16-Aug-2022 17:10:54 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 25
+[16-Aug-2022 17:11:33 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 25
+[16-Aug-2022 17:11:33 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 25
