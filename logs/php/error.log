@@ -1,0 +1,274 @@
+[27-Jul-2022 19:41:34 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\majad\Desktop\Wordpress Development\app\public\experiment.php on line 4
+[27-Jul-2022 19:41:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\majad\Desktop\Wordpress Development\app\public\experiment.php on line 4
+[28-Jul-2022 08:03:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 4
+[28-Jul-2022 08:04:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 4
+[28-Jul-2022 08:04:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 4
+[28-Jul-2022 08:04:49 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 4
+[28-Jul-2022 08:05:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 4
+[28-Jul-2022 08:09:16 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 2
+[28-Jul-2022 08:09:51 UTC] PHP Warning:  Use of undefined constant John - assumed 'John' (this will throw an Error in a future version of PHP) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 5
+[28-Jul-2022 08:09:51 UTC] PHP Stack trace:
+[28-Jul-2022 08:09:51 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:0
+[28-Jul-2022 08:09:51 UTC] PHP   2. require() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:17
+[28-Jul-2022 08:09:51 UTC] PHP   3. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php:19
+[28-Jul-2022 08:09:51 UTC] PHP   4. include() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php:106
+[28-Jul-2022 08:09:51 UTC] PHP Warning:  Use of undefined constant Jane - assumed 'Jane' (this will throw an Error in a future version of PHP) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 6
+[28-Jul-2022 08:09:51 UTC] PHP Stack trace:
+[28-Jul-2022 08:09:51 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:0
+[28-Jul-2022 08:09:51 UTC] PHP   2. require() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:17
+[28-Jul-2022 08:09:51 UTC] PHP   3. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php:19
+[28-Jul-2022 08:09:51 UTC] PHP   4. include() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php:106
+[28-Jul-2022 08:14:28 UTC] PHP Parse error:  syntax error, unexpected ''name'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 9
+[28-Jul-2022 08:14:57 UTC] PHP Parse error:  syntax error, unexpected ''name'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 9
+[28-Jul-2022 08:15:10 UTC] PHP Parse error:  syntax error, unexpected ''name'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 9
+[28-Jul-2022 20:03:57 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 5
+[28-Jul-2022 20:13:44 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 2
+[28-Jul-2022 20:14:29 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 2
+[28-Jul-2022 20:14:54 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 2
+[28-Jul-2022 20:15:39 UTC] PHP Parse error:  syntax error, unexpected ',' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 2
+[28-Jul-2022 20:16:12 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 7
+[05-Aug-2022 20:36:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function permalink() in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php:4
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php(19): require_once('C:\\Users\\majad\\...')
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\index.php(17): require('C:\\Users\\majad\\...')
+#3 {main}
+  thrown in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 4
+[06-Aug-2022 17:15:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_file_uri() in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php:76
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php(19): require_once('C:\\Users\\majad\\...')
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\index.php(17): require('C:\\Users\\majad\\...')
+#3 {main}
+  thrown in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 76
+[08-Aug-2022 18:57:57 UTC] PHP Parse error:  syntax error, unexpected '/' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php on line 6
+[08-Aug-2022 18:58:08 UTC] PHP Warning:  Use of undefined constant image - assumed 'image' (this will throw an Error in a future version of PHP) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php on line 6
+[08-Aug-2022 18:58:08 UTC] PHP Stack trace:
+[08-Aug-2022 18:58:08 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:0
+[08-Aug-2022 18:58:08 UTC] PHP   2. require() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:17
+[08-Aug-2022 18:58:08 UTC] PHP   3. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php:19
+[08-Aug-2022 18:58:08 UTC] PHP   4. include() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php:106
+[08-Aug-2022 18:58:08 UTC] PHP Warning:  Use of undefined constant ocean - assumed 'ocean' (this will throw an Error in a future version of PHP) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php on line 6
+[08-Aug-2022 18:58:08 UTC] PHP Stack trace:
+[08-Aug-2022 18:58:08 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:0
+[08-Aug-2022 18:58:08 UTC] PHP   2. require() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:17
+[08-Aug-2022 18:58:08 UTC] PHP   3. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php:19
+[08-Aug-2022 18:58:08 UTC] PHP   4. include() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php:106
+[08-Aug-2022 18:58:08 UTC] PHP Warning:  A non-numeric value encountered in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php on line 6
+[08-Aug-2022 18:58:08 UTC] PHP Stack trace:
+[08-Aug-2022 18:58:08 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:0
+[08-Aug-2022 18:58:08 UTC] PHP   2. require() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:17
+[08-Aug-2022 18:58:08 UTC] PHP   3. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php:19
+[08-Aug-2022 18:58:08 UTC] PHP   4. include() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php:106
+[08-Aug-2022 18:58:08 UTC] PHP Warning:  A non-numeric value encountered in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php on line 6
+[08-Aug-2022 18:58:08 UTC] PHP Stack trace:
+[08-Aug-2022 18:58:08 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:0
+[08-Aug-2022 18:58:08 UTC] PHP   2. require() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:17
+[08-Aug-2022 18:58:08 UTC] PHP   3. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php:19
+[08-Aug-2022 18:58:08 UTC] PHP   4. include() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php:106
+[08-Aug-2022 18:58:08 UTC] PHP Warning:  Division by zero in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php on line 6
+[08-Aug-2022 18:58:08 UTC] PHP Stack trace:
+[08-Aug-2022 18:58:08 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:0
+[08-Aug-2022 18:58:08 UTC] PHP   2. require() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:17
+[08-Aug-2022 18:58:08 UTC] PHP   3. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php:19
+[08-Aug-2022 18:58:08 UTC] PHP   4. include() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php:106
+[08-Aug-2022 18:58:08 UTC] PHP Warning:  Use of undefined constant jpg - assumed 'jpg' (this will throw an Error in a future version of PHP) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php on line 6
+[08-Aug-2022 18:58:08 UTC] PHP Stack trace:
+[08-Aug-2022 18:58:08 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:0
+[08-Aug-2022 18:58:08 UTC] PHP   2. require() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:17
+[08-Aug-2022 18:58:08 UTC] PHP   3. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php:19
+[08-Aug-2022 18:58:08 UTC] PHP   4. include() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php:106
+[08-Aug-2022 19:05:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_theme_support(), 0 passed in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 13 and exactly 1 expected in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\theme.php:2576
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php(13): add_theme_support()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\class-wp-hook.php(307): university_features('')
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#4 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#5 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-co in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\theme.php on line 2576
+[08-Aug-2022 19:05:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_theme_support(), 0 passed in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 13 and exactly 1 expected in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\theme.php:2576
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php(13): add_theme_support()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\class-wp-hook.php(307): university_features('')
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#4 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#5 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-co in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\theme.php on line 2576
+[08-Aug-2022 19:05:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_theme_support(), 0 passed in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 13 and exactly 1 expected in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\theme.php:2576
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php(13): add_theme_support()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\class-wp-hook.php(307): university_features('')
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#4 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#5 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-co in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\theme.php on line 2576
+[08-Aug-2022 19:05:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_theme_support(), 0 passed in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 13 and exactly 1 expected in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\theme.php:2576
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php(13): add_theme_support()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\class-wp-hook.php(307): university_features('')
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#4 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#5 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-co in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\theme.php on line 2576
+[08-Aug-2022 19:06:27 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_theme_support(), 0 passed in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 13 and exactly 1 expected in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\theme.php:2576
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php(13): add_theme_support()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\class-wp-hook.php(307): university_features('')
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#4 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#5 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-co in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\theme.php on line 2576
+[08-Aug-2022 19:06:27 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_theme_support(), 0 passed in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 13 and exactly 1 expected in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\theme.php:2576
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php(13): add_theme_support()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\class-wp-hook.php(307): university_features('')
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#4 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-settings.php(576): do_action('after_setup_the...')
+#5 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-co in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\theme.php on line 2576
+[08-Aug-2022 19:19:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_site() in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\header.php:20
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template.php(716): load_template('C:\\Users\\majad\\...', true, Array)
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php(2): get_header()
+#4 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\majad\\...')
+#5 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php(19): require_once('C:\\Users\\majad\\...')
+#6 C:\Users\majad\Desktop\Wordpress Development\app\public\index.php(17) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\header.php on line 20
+[08-Aug-2022 19:19:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_site() in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\header.php:20
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template.php(716): load_template('C:\\Users\\majad\\...', true, Array)
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php(2): get_header()
+#4 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\majad\\...')
+#5 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php(19): require_once('C:\\Users\\majad\\...')
+#6 C:\Users\majad\Desktop\Wordpress Development\app\public\index.php(17) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\header.php on line 20
+[08-Aug-2022 19:20:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_site() in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\header.php:20
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template.php(716): load_template('C:\\Users\\majad\\...', true, Array)
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php(2): get_header()
+#4 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\majad\\...')
+#5 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php(19): require_once('C:\\Users\\majad\\...')
+#6 C:\Users\majad\Desktop\Wordpress Development\app\public\index.php(17) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\header.php on line 20
+[09-Aug-2022 19:21:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_the_post_id() in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php:30
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php(19): require_once('C:\\Users\\majad\\...')
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\index.php(17): require('C:\\Users\\majad\\...')
+#3 {main}
+  thrown in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php on line 30
+[09-Aug-2022 19:21:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_the_post_parent_id() in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php:30
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php(19): require_once('C:\\Users\\majad\\...')
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\index.php(17): require('C:\\Users\\majad\\...')
+#3 {main}
+  thrown in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php on line 30
+[09-Aug-2022 19:21:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_ID() in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php:30
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php(19): require_once('C:\\Users\\majad\\...')
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\index.php(17): require('C:\\Users\\majad\\...')
+#3 {main}
+  thrown in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php on line 30
+[09-Aug-2022 19:33:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_the_title() in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php:20
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php(19): require_once('C:\\Users\\majad\\...')
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\index.php(17): require('C:\\Users\\majad\\...')
+#3 {main}
+  thrown in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php on line 20
+[09-Aug-2022 19:34:22 UTC] PHP Warning:  Use of undefined constant x - assumed 'x' (this will throw an Error in a future version of PHP) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php on line 20
+[09-Aug-2022 19:34:22 UTC] PHP Stack trace:
+[09-Aug-2022 19:34:22 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:0
+[09-Aug-2022 19:34:22 UTC] PHP   2. require() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:17
+[09-Aug-2022 19:34:22 UTC] PHP   3. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php:19
+[09-Aug-2022 19:34:22 UTC] PHP   4. include() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php:106
+[10-Aug-2022 18:31:58 UTC] PHP Parse error:  syntax error, unexpected 'doubleMe' (T_STRING) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[10-Aug-2022 18:32:06 UTC] PHP Parse error:  syntax error, unexpected 'doubleMe' (T_STRING) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[10-Aug-2022 18:32:20 UTC] PHP Parse error:  syntax error, unexpected 'doubleMe' (T_STRING) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[10-Aug-2022 18:32:39 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[10-Aug-2022 18:32:50 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[10-Aug-2022 18:34:03 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[10-Aug-2022 18:34:24 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[10-Aug-2022 18:34:52 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[10-Aug-2022 18:35:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php:4
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php(6): doubleMe(2)
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\majad\\...')
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php(19): require_once('C:\\Users\\majad\\...')
+#3 C:\Users\majad\Desktop\Wordpress Development\app\public\index.php(17): require('C:\\Users\\majad\\...')
+#4 {main}
+  thrown in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 4
+[10-Aug-2022 18:44:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function doubleMe(), 0 passed in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 11 and exactly 1 expected in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php:3
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php(11): doubleMe()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\majad\\...')
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php(19): require_once('C:\\Users\\majad\\...')
+#3 C:\Users\majad\Desktop\Wordpress Development\app\public\index.php(17): require('C:\\Users\\majad\\...')
+#4 {main}
+  thrown in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 3
+[10-Aug-2022 19:08:23 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php on line 35
+[10-Aug-2022 19:08:43 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php on line 35
+[10-Aug-2022 19:12:28 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php on line 31
+[10-Aug-2022 19:12:35 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php on line 31
+[10-Aug-2022 19:24:47 UTC] PHP Warning:  Use of undefined constant get_the_ID - assumed 'get_the_ID' (this will throw an Error in a future version of PHP) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php on line 33
+[10-Aug-2022 19:24:47 UTC] PHP Stack trace:
+[10-Aug-2022 19:24:47 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:0
+[10-Aug-2022 19:24:47 UTC] PHP   2. require() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:17
+[10-Aug-2022 19:24:47 UTC] PHP   3. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php:19
+[10-Aug-2022 19:24:48 UTC] PHP   4. include() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php:106
+[10-Aug-2022 20:06:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_language_attributes() in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\header.php:2
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template.php(716): load_template('C:\\Users\\majad\\...', true, Array)
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php(1): get_header()
+#4 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\majad\\...')
+#5 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php(19): require_once('C:\\Users\\majad\\...')
+#6 C:\Users\majad\Desktop\Wordpress Development\app\public in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\header.php on line 2
+[14-Aug-2022 16:42:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_partent_ID() in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\header.php:23
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template.php(716): load_template('C:\\Users\\majad\\...', true, Array)
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php(2): get_header()
+#4 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\majad\\...')
+#5 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php(19): require_once('C:\\Users\\majad\\...')
+#6 C:\Users\majad\Desktop\Wordpress Development\app\publi in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\header.php on line 23
+[14-Aug-2022 16:43:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_the_post_partent_ID() in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\header.php:23
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template.php(716): load_template('C:\\Users\\majad\\...', true, Array)
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php(2): get_header()
+#4 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\majad\\...')
+#5 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php(19): require_once('C:\\Users\\majad\\...')
+#6 C:\Users\majad\Desktop\Wordpress Development\app\pu in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\header.php on line 23
+[14-Aug-2022 16:43:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_post_partent_ID() in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\header.php:23
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template.php(716): load_template('C:\\Users\\majad\\...', true, Array)
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\page.php(2): get_header()
+#4 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\majad\\...')
+#5 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php(19): require_once('C:\\Users\\majad\\...')
+#6 C:\Users\majad\Desktop\Wordpress Development\app\public in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\header.php on line 23
+[14-Aug-2022 18:06:01 UTC] PHP Parse error:  syntax error, unexpected 'get_footer' (T_STRING) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 14
+[14-Aug-2022 18:21:51 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 18
+[14-Aug-2022 18:23:16 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 20
+[14-Aug-2022 19:56:13 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 8
+[14-Aug-2022 19:56:33 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\index.php on line 8
+[14-Aug-2022 19:58:35 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\archive.php on line 9
+[14-Aug-2022 20:02:09 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\archive.php on line 11
+[14-Aug-2022 20:02:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\archive.php on line 11
+[14-Aug-2022 20:03:12 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\archive.php on line 11
+[14-Aug-2022 20:08:24 UTC] PHP Parse error:  syntax error, unexpected 'the_author' (T_STRING), expecting ';' or ',' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\archive.php on line 10
+[14-Aug-2022 20:45:51 UTC] PHP Parse error:  syntax error, unexpected '?', expecting end of file in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\archive.php on line 12
+[15-Aug-2022 19:21:58 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 47
+[15-Aug-2022 19:53:01 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\header.php on line 27
+[15-Aug-2022 19:53:14 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\header.php on line 27
+[15-Aug-2022 19:55:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\header.php on line 27
