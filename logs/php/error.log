@@ -334,3 +334,76 @@ Stack trace:
 [16-Aug-2022 17:10:54 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 25
 [16-Aug-2022 17:11:33 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 25
 [16-Aug-2022 17:11:33 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 25
+[16-Aug-2022 17:24:41 UTC] PHP Fatal error:  Cannot redeclare university_post_types() (previously declared in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\mu-plugins\university-post-types.php:2) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 20
+[16-Aug-2022 17:24:41 UTC] PHP Stack trace:
+[16-Aug-2022 17:24:41 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\index.php:0
+[16-Aug-2022 17:24:41 UTC] PHP   2. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\index.php:10
+[16-Aug-2022 17:24:41 UTC] PHP   3. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\admin.php:34
+[16-Aug-2022 17:24:41 UTC] PHP   4. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-load.php:50
+[16-Aug-2022 17:24:41 UTC] PHP   5. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-config.php:91
+[16-Aug-2022 17:24:41 UTC] PHP Fatal error:  Cannot redeclare university_post_types() (previously declared in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\mu-plugins\university-post-types.php:2) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 20
+[16-Aug-2022 17:24:41 UTC] PHP Stack trace:
+[16-Aug-2022 17:24:41 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:0
+[16-Aug-2022 17:24:41 UTC] PHP   2. require() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:17
+[16-Aug-2022 17:24:41 UTC] PHP   3. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php:13
+[16-Aug-2022 17:24:41 UTC] PHP   4. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-load.php:50
+[16-Aug-2022 17:24:41 UTC] PHP   5. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-config.php:91
+[16-Aug-2022 17:26:13 UTC] PHP Fatal error:  Cannot redeclare university_post_types() (previously declared in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\mu-plugins\university-post-types.php:2) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 20
+[16-Aug-2022 17:26:13 UTC] PHP Stack trace:
+[16-Aug-2022 17:26:13 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\index.php:0
+[16-Aug-2022 17:26:13 UTC] PHP   2. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\index.php:10
+[16-Aug-2022 17:26:13 UTC] PHP   3. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\admin.php:34
+[16-Aug-2022 17:26:13 UTC] PHP   4. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-load.php:50
+[16-Aug-2022 17:26:13 UTC] PHP   5. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-config.php:91
+[16-Aug-2022 17:26:14 UTC] PHP Fatal error:  Cannot redeclare university_post_types() (previously declared in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\mu-plugins\university-post-types.php:2) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 20
+[16-Aug-2022 17:26:14 UTC] PHP Stack trace:
+[16-Aug-2022 17:26:14 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:0
+[16-Aug-2022 17:26:14 UTC] PHP   2. require() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:17
+[16-Aug-2022 17:26:14 UTC] PHP   3. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php:13
+[16-Aug-2022 17:26:14 UTC] PHP   4. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-load.php:50
+[16-Aug-2022 17:26:14 UTC] PHP   5. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-config.php:91
+[16-Aug-2022 17:26:38 UTC] PHP Fatal error:  Cannot redeclare university_post_types() (previously declared in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\mu-plugins\university-post-types.php:2) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 20
+[16-Aug-2022 17:26:38 UTC] PHP Stack trace:
+[16-Aug-2022 17:26:38 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\index.php:0
+[16-Aug-2022 17:26:38 UTC] PHP   2. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\index.php:10
+[16-Aug-2022 17:26:38 UTC] PHP   3. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\admin.php:34
+[16-Aug-2022 17:26:38 UTC] PHP   4. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-load.php:50
+[16-Aug-2022 17:26:38 UTC] PHP   5. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-config.php:91
+[16-Aug-2022 17:26:38 UTC] PHP Fatal error:  Cannot redeclare university_post_types() (previously declared in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\mu-plugins\university-post-types.php:2) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 20
+[16-Aug-2022 17:26:38 UTC] PHP Stack trace:
+[16-Aug-2022 17:26:38 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:0
+[16-Aug-2022 17:26:38 UTC] PHP   2. require() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:17
+[16-Aug-2022 17:26:38 UTC] PHP   3. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php:13
+[16-Aug-2022 17:26:38 UTC] PHP   4. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-load.php:50
+[16-Aug-2022 17:26:38 UTC] PHP   5. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-config.php:91
+[16-Aug-2022 17:32:08 UTC] PHP Fatal error:  Cannot redeclare university_post_types() (previously declared in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\mu-plugins\university-post-types.php:2) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 20
+[16-Aug-2022 17:32:08 UTC] PHP Stack trace:
+[16-Aug-2022 17:32:08 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\index.php:0
+[16-Aug-2022 17:32:08 UTC] PHP   2. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\index.php:10
+[16-Aug-2022 17:32:08 UTC] PHP   3. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-admin\admin.php:34
+[16-Aug-2022 17:32:08 UTC] PHP   4. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-load.php:50
+[16-Aug-2022 17:32:08 UTC] PHP   5. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-config.php:91
+[16-Aug-2022 17:32:08 UTC] PHP Fatal error:  Cannot redeclare university_post_types() (previously declared in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\mu-plugins\university-post-types.php:2) in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\functions.php on line 20
+[16-Aug-2022 17:32:08 UTC] PHP Stack trace:
+[16-Aug-2022 17:32:08 UTC] PHP   1. {main}() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:0
+[16-Aug-2022 17:32:08 UTC] PHP   2. require() C:\Users\majad\Desktop\Wordpress Development\app\public\index.php:17
+[16-Aug-2022 17:32:08 UTC] PHP   3. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php:13
+[16-Aug-2022 17:32:08 UTC] PHP   4. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-load.php:50
+[16-Aug-2022 17:32:08 UTC] PHP   5. require_once() C:\Users\majad\Desktop\Wordpress Development\app\public\wp-config.php:91
+[16-Aug-2022 17:38:23 UTC] PHP Parse error:  syntax error, unexpected ''singular_name'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\mu-plugins\university-post-types.php on line 10
+[16-Aug-2022 17:40:24 UTC] PHP Parse error:  syntax error, unexpected ''singular_name'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\mu-plugins\university-post-types.php on line 10
+[16-Aug-2022 17:42:25 UTC] PHP Parse error:  syntax error, unexpected ''singular_name'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\mu-plugins\university-post-types.php on line 10
+[16-Aug-2022 17:43:18 UTC] PHP Parse error:  syntax error, unexpected ''singular_name'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\mu-plugins\university-post-types.php on line 11
+[16-Aug-2022 17:43:18 UTC] PHP Parse error:  syntax error, unexpected ''singular_name'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\mu-plugins\university-post-types.php on line 11
+[16-Aug-2022 17:43:18 UTC] PHP Parse error:  syntax error, unexpected ''singular_name'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\mu-plugins\university-post-types.php on line 11
+[16-Aug-2022 17:59:24 UTC] PHP Parse error:  syntax error, unexpected '?>' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 23
+[16-Aug-2022 18:00:44 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 23
+[16-Aug-2022 18:00:58 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 23
+[16-Aug-2022 18:16:24 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 24
+[16-Aug-2022 18:18:35 UTC] PHP Parse error:  syntax error, unexpected '?>' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 23
+[16-Aug-2022 18:21:36 UTC] PHP Parse error:  syntax error, unexpected '?>' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 23
+[16-Aug-2022 18:21:53 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 23
+[16-Aug-2022 18:22:04 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 23
+[16-Aug-2022 19:54:29 UTC] PHP Parse error:  syntax error, unexpected '/' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 41
+[16-Aug-2022 19:54:51 UTC] PHP Parse error:  syntax error, unexpected '/' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 41
+[16-Aug-2022 20:00:23 UTC] PHP Parse error:  syntax error, unexpected '/' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 41
