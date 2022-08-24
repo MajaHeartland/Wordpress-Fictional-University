@@ -411,3 +411,5 @@ Stack trace:
 [23-Aug-2022 16:16:35 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 66
 [23-Aug-2022 16:17:38 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 66
 [23-Aug-2022 16:18:36 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 66
+[24-Aug-2022 18:36:57 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 32
+[24-Aug-2022 18:37:16 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 32
