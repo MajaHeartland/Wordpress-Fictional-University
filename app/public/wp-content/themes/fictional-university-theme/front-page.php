@@ -29,7 +29,7 @@
                 echo $eventDate-> format('M');
                 ;?></span>
                 <span class="event-summary__day"><?php 
-                echo $eventTime-> format('j');
+                echo $eventDate-> format('j');
                 ?></span>
               </a>
               <div class="event-summary__content">

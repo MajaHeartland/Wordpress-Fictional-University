@@ -428,3 +428,10 @@ Stack trace:
 #2 C:\Users\majad\Desktop\Wordpress Development\app\public\index.php(17): require('C:\\Users\\majad\\...')
 #3 {main}
   thrown in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 32
+[29-Aug-2022 17:24:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\front-page.php:32
+Stack trace:
+#0 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\majad\Desktop\Wordpress Development\app\public\wp-blog-header.php(19): require_once('C:\\Users\\majad\\...')
+#2 C:\Users\majad\Desktop\Wordpress Development\app\public\index.php(17): require('C:\\Users\\majad\\...')
+#3 {main}
+  thrown in C:\Users\majad\Desktop\Wordpress Development\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 32
